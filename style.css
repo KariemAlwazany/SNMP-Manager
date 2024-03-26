@@ -1,0 +1,46 @@
+.title
+{
+margin-left: 800px;
+}
+.btn
+{
+   margin-left: 910px;
+}
+.TCP
+{
+   font-size: 1rem;
+   font-weight: bold;
+   margin-left: 650px;
+}
+.outer-table 
+{
+   border-collapse: collapse;
+   width: 100%;
+}
+.outer-table, .inner-table 
+{
+   border: 1px solid black;
+}
+.inner-table 
+{
+   margin: auto; /* Center the inner tables within the table cells */
+}
+ th, td 
+{
+   border: 1px solid black;
+   padding: 5px;
+   text-align: left;
+}
+ th 
+{
+   background-color: #f2f2f2;
+}
+h1
+{
+   margin-top: 300px;
+   margin-left: 380px;
+}
+h1:hover
+{
+   text-shadow: 1px 1px 1px #000000;
+}
